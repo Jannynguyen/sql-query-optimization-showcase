@@ -34,3 +34,5 @@ A reporting query in a production-like system was taking ~5 seconds to execute, 
 
 * MySQL
 * SQL
+## Engineering Analysis
+See detailed explanation in analysis.md
